@@ -3,7 +3,7 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "timmy"
 version = "0.0.1"
 description = "A small example package"
 requires-python = ">=3.9"
