@@ -3,8 +3,10 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "stack"
-version = "0.0.2"
+name = "example_package_YOUR_USERNAME_HERE"
+version = "0.0.1"
+description = "A small example package"
+requires-python = ">=3.9"
 
 [tool.hatch.build.targets.wheel]
-packages = ["PythonProject/PythonProject"]
+packages = ["Schwnby"]

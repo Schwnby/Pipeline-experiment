@@ -1,1 +1,1 @@
-﻿import stack
+﻿import s
