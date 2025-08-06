@@ -2,7 +2,7 @@
     def __init__(self):
         self.items = []
 
-    def push(self, item):
+    def push(self, item: int):
         self.items.append(item)
 
     def pop(self):

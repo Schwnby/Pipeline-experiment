@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "stack"
-version = "0.0.1"
+version = "0.0.2"
 
 [tool.hatch.build.targets.wheel]
-packages = ["PythonProject/PythonProject"]
+packages = ["C:/Development/PythonProject/PythonProject"]
