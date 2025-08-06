@@ -21,6 +21,6 @@ class Timmy:
 
 class Mood(Enum):
     Happy = 0
-    Sad = 0
-    Angry = 0
-    Confused = 0
+    Sad = 1
+    Angry = 2
+    Confused = 3
