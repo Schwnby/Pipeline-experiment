@@ -7,3 +7,6 @@
 
     def pop(self):
         return self.items.pop()
+
+    def reset(self):
+        self.items = []
